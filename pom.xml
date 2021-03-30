@@ -12,7 +12,7 @@ Run 'mvn -q verify' to run the Checkstyle plugin.
    	<modelVersion>4.0.0</modelVersion>
 
    	<groupId>com.SHS.APCS</groupId>
-   	<artifactId>Lab-##-Name</artifactId>
+   	<artifactId>Lab-25-Maze-Solver</artifactId>
    	<version>1.0</version>
 
 	<dependencies>
