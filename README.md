@@ -1,4 +1,4 @@
-# Lab 25 - Maze Solver
+# Lab 26 - Maze Solver
 
 ### Directions
 
